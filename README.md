@@ -1,5 +1,4 @@
-# libax_ft | Axiom Functions library
-## for Hyperscale Systems Foundation
+# libax_ft | Axiom Functions for Hyperscale Systems
 
 **High-Performance C Infrastructure for Hyperscale Architectures, with upgrade capacity for futures C∞.**
 
