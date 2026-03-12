@@ -2,10 +2,10 @@
 
 **High-Performance C Infrastructure for Hyperscale Architectures, with upgrade capacity for futures C∞.**
 
-![C Standard](https://img.shields.io/badge/Standard-C23-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C Standard](https://img.shields.io/badge/Standard-C23_&_Futures-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Build Status](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Audit-Ready-blueviolet?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Open_Research-red?style=for-the-badge)
 ![Architecture](https://img.shields.io/badge/Architecture-Hyperscale_N%2B1-black?style=for-the-badge)
 
 ---
