@@ -1,4 +1,4 @@
-# libax_ft | The C23-based Axiom Systems Foundation
+## libax_ft | Axiom Functions library for Hyperscale Systems Foundation
 
 **High-Performance C Infrastructure for Hyperscale Architectures, with upgrade capacity for futures C∞.**
 
