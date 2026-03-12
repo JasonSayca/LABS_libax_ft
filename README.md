@@ -11,12 +11,25 @@
 ---
 
 ## 🏛️ Project Vision
-`libax_ft` is not just a library; it is a **Systems Foundation** designed to bridge the gap between academic low-level exploration and industrial-grade software engineering. It implements the **Axiom Protocol** by Sayca Labs: a set of deterministic, sovereign, and cache-optimized primitives for next-generation autonomous systems.
+Implementation of the **Axiom Protocol** by Sayca Labs.
 
-### S.P.ROI Core Pillars
+**Systems Foundation** designed to bridge the gap between academic low-level exploration and industrial-grade software engineering. 
+
+### S / P / ROI pillars
 * **Sovereignty**: Zero-cloud dependency. Local execution, total control.
 * **Performance**: C23-native optimizations. $O(1)$ memory operations.
 * **ROI**: Reducing architectural debt through audit-ready, modular code.
+
+---
+
+## ⚙️ Technical Roadmap (2026-2027)
+
+| Phase | Milestone | Focus |
+| :--- | :--- | :--- |
+| **I** | `AX_BASE` | Implementation of `ax_core` and `ax_arena` (C23 based). |
+| **II** | `AX_DATA` | High-performance containers and String View engine. |
+| **III** | `AX_HYBRID` | Rust FFI Bindings and memory safety wrappers. |
+| **IV** | `AX_SCALE` | Distributed systems primitives & Hyperscale testing. |
 
 ---
 
@@ -53,17 +66,6 @@ Abstracting the complexity of Unix/Kernel interactions.
 * **Thread Pools**: Managed worker clusters for parallel task execution.
 * **Asynchronous I/O**: Non-blocking event loops for agentic flows.
 * **IPC Bridge**: Shared memory and pipe protocols for multi-process coordination.
-
----
-
-## ⚙️ Technical Roadmap (2026-2027)
-
-| Phase | Milestone | Focus |
-| :--- | :--- | :--- |
-| **I** | `AX_BASE` | Implementation of `ax_core` and `ax_arena` (C23 based). |
-| **II** | `AX_DATA` | High-performance containers and String View engine. |
-| **III** | `AX_HYBRID` | Rust FFI Bindings and memory safety wrappers. |
-| **IV** | `AX_SCALE` | Distributed systems primitives & Hyperscale testing. |
 
 ---
 
