@@ -70,4 +70,4 @@ Abstracting the complexity of Unix/Kernel interactions.
 ## 🛡️ Industrial Standard & Licensing
 This repository is an **Audit-Ready Codebase**. Every function is documented with algorithmic complexity and memory safety constraints. 
 
-**Copyright (c) 2026 Sayca Labs - All Rights Reserved.** *Developed at 42 Nice as part of the 42next systems research cycle.*
+**Copyright (c) 2026 Sayca Labs (Jason Ferone) - Open Research.** *Developed at 42 Nice as part of the 42next systems research cycle.*
